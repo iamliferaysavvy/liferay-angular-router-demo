@@ -1,3 +1,3 @@
 # liferay-angular-router-demo
 
-Liferay ngular Router Demo
+Liferay 7.2 ngular Router Demo with Liferay JS Toolkit
