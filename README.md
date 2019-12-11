@@ -1,3 +1,3 @@
-# angular-router-demo
+# liferay-angular-router-demo
 
-Angular Router Demo
+Liferay ngular Router Demo
